@@ -1,0 +1,22 @@
+body {
+  margin: 30px;
+  width: 500px;
+}
+
+.result-item {
+  margin: 5px;
+  font-size: 14px;
+  line-height: 1.25;
+  width: 100%;
+  letter-spacing: 0.3px;
+  font-size: 15px;
+}
+
+.result-word {
+  font-size: 16px;
+}
+
+.input {
+  padding: 7px;
+  width: 100%;
+}
