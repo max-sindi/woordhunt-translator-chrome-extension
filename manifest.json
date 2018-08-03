@@ -11,6 +11,6 @@
     "default_popup": "popup.html"
   },
   "permissions": [
-    "https://wooordhunt.ru/", "https://code.jquery.com/"
+    "https://wooordhunt.ru/"
   ]
 }
